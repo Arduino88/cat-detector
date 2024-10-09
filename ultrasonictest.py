@@ -18,7 +18,7 @@ while True:
     time.microsleep(10)
     trig.write(False)
 
-    duration = 
+    duration = 1
     
     # Wait for echo pulse
     while echo.read()!= 1:

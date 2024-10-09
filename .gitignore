@@ -1,6 +1,7 @@
 # Custom
 pittin-classifier
 *.code-workspace
+*.png
 
 
 # Byte-compiled / optimized / DLL files
