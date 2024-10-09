@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"arduino.path": "'C:\\Program Files\\Arduino IDE'",
+		"arduino.enableUSBDetection": true
+	}
+}
