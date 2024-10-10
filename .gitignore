@@ -2,7 +2,7 @@
 pittin-classifier
 *.code-workspace
 *.png
-
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
